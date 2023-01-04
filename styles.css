@@ -1,0 +1,9 @@
+div {
+    color: white;
+    background-color: black;
+    flex: 1;
+}
+
+p {
+    color: red;
+}
